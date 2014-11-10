@@ -1,4 +1,4 @@
-wordpress-snippets
+Wordpress Snippets
 ==================
 
 Wordpress snippets
